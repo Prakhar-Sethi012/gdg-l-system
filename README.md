@@ -27,3 +27,10 @@ This project is part of the GDG Club technical task.
 - Ensures all symbol replacements occur simultaneously
 - Command-line based input and output
 
+- ### Phase 2: Turtle Visualization
+- Integrated L-system generator with turtle graphics
+- Implemented standard L-system turtle commands (F, +, -)
+- Verified visual output for fractal patterns
+- Large iteration counts may impact performance due to exponential growth
+
+
