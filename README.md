@@ -33,4 +33,12 @@ This project is part of the GDG Club technical task.
 - Verified visual output for fractal patterns
 - Large iteration counts may impact performance due to exponential growth
 
+- ###Phase 3 was a refactor step, not a new feature.
+
+- ### Phase 4: Branching Support
+- Implemented push/pop turtle state using a stack for `[` and `]`
+- Restores turtle position and heading using penup/goto/setheading/pendown
+- Enables tree-like and plant-like fractal structures
+
+
 
