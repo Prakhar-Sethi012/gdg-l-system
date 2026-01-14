@@ -100,6 +100,12 @@ This project was developed as part of the **GDG Club technical task**.
   - Embedded turtle canvas using `RawTurtle`
   - Optimized rendering using `turtle.tracer(0, 0)`
 
+- `Screenshots`
+  ![Koch Fractal](https://github.com/Prakhar-Sethi012/gdg-l-system/blob/20a86ee34aafc182799278f304d9cf5f8125adaf/Koch_Style_Fractal.png)
+  ![Tree Fractal](https://github.com/Prakhar-Sethi012/gdg-l-system/blob/20a86ee34aafc182799278f304d9cf5f8125adaf/Tree_Fractal.png)
+  
+  
+
 - `README.md`  
   Project documentation and usage instructions.
 ---
