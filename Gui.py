@@ -105,7 +105,7 @@ def main():
     def reset_turtle():
         p.clear()
         p.penup()
-        p.home()
+        p.goto(0,-240)
         p.setheading(90)
         p.pendown()
 
