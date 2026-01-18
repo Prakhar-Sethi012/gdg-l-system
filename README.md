@@ -94,7 +94,7 @@ This project was developed as part of the **GDG Club technical task**.
   - `]` to restore turtle state  
   Enables tree-like and plant-like fractal structures.
 
-- `Gui.py`  
+- `FINAL_(Gui).py`  
   Final Tkinter GUI implementation:
   - Input dashboard for axiom, rules, angle, iterations, step length
   - Embedded turtle canvas using `RawTurtle`
@@ -114,4 +114,4 @@ This project was developed as part of the **GDG Club technical task**.
 
 ### GUI Version (Recommended)
 ```bash
-python lsystem_FINAL_(Gui).py
+python FINAL_(Gui).py
