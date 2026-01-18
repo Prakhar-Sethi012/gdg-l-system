@@ -114,4 +114,4 @@ This project was developed as part of the **GDG Club technical task**.
 
 ### GUI Version (Recommended)
 ```bash
-python lsystem_gui.py
+python lsystem_FINAL_(Gui).py
